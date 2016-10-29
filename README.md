@@ -3,5 +3,5 @@ Seminar and project presentation on EMG (electromyography) based motion estimati
 
 * Inverse kinematics & dynamics
 * Biomechanical modelling
-* (Neuro)muscular redundancy and DOF problem and (constrained) optimization
+* (Neuro)muscular redundancy, DOF problem and activation optimization approach
 * OpenSim (simtk.org)
